@@ -36,14 +36,14 @@ def main_list(params):
 
     plugintools.add_item(
         #action="",
-        title="TV1",
+        title="剧场1",
         url="plugin://plugin.video.youtube/channel/UCeb_lcsrAC4-_Qfb6syoADg/playlists/",
         thumbnail=icon,
         folder=True )
 
     plugintools.add_item(
         #action="",
-        title="TV2",
+        title="剧场2",
         url="plugin://plugin.video.youtube/channel/UC4Kf3NigNJk1GVLi8UlE5TQ/playlists/",
         thumbnail=icon,
         folder=True )
@@ -51,7 +51,7 @@ def main_list(params):
 
     plugintools.add_item(
         #action="",
-        title="TV3",
+        title="剧场3",
         url="plugin://plugin.video.youtube/user/NBSCAST/playlists/",
         thumbnail=icon,
         folder=True )
@@ -59,7 +59,7 @@ def main_list(params):
 
     plugintools.add_item(
         #action="",
-        title="TV4",
+        title="剧场4",
         url="plugin://plugin.video.youtube/channel/UCpIpkRVIqJ9ugD5bhRVPwpQ/playlists/",
         thumbnail=icon,
         folder=True )
