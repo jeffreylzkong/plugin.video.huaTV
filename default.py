@@ -52,7 +52,7 @@ def main_list(params):
     plugintools.add_item(
         #action="",
         title="剧场3",
-        url="plugin://plugin.video.youtube/user/NBSCAST/playlists/",
+        url="plugin://plugin.video.youtube/channel/UCsGEj57i2wo9kj-gQSZiqqg/playlists/",
         thumbnail=icon,
         folder=True )
 
@@ -60,7 +60,7 @@ def main_list(params):
     plugintools.add_item(
         #action="",
         title="剧场4",
-        url="plugin://plugin.video.youtube/channel/UCpIpkRVIqJ9ugD5bhRVPwpQ/playlists/",
+        url="plugin://plugin.video.youtube/channel/UC2rIBEpTm94ZkvSo1BI5tSg/playlists/",
         thumbnail=icon,
         folder=True )
 
