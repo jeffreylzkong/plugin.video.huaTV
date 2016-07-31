@@ -44,7 +44,7 @@ def main_list(params):
     plugintools.add_item(
         #action="",
         title="剧场2",
-        url="plugin://plugin.video.youtube/channel/UC4Kf3NigNJk1GVLi8UlE5TQ/playlists/",
+        url="plugin://plugin.video.youtube/channel/UCCm1esb69IGI3cfz5NUu-1g/playlists/",
         thumbnail=icon,
         folder=True )
 
@@ -61,6 +61,20 @@ def main_list(params):
         #action="",
         title="剧场4",
         url="plugin://plugin.video.youtube/channel/UCpIpkRVIqJ9ugD5bhRVPwpQ/playlists/",
+        thumbnail=icon,
+        folder=True )
+
+    plugintools.add_item(
+        #action="",
+        title="剧场5",
+        url="plugin://plugin.video.youtube/channel/UCY6FkiShoYFoMb5MRuwyoWA/playlists/",
+        thumbnail=icon,
+        folder=True )
+
+    plugintools.add_item(
+        #action="",
+        title="剧场6",
+        url="plugin://plugin.video.youtube/user/hitdrama/playlists/",
         thumbnail=icon,
         folder=True )
 
